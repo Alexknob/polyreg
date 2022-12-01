@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+# RStudio files
+.Rproj.user/
+.Rproj.user
+polyreg.Rproj
+.Rproj
