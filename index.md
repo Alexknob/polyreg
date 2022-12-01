@@ -62,7 +62,7 @@ If you have not and would like to learn more about these models try this [link](
 In this tutorial we are going to explore another modelling type: the bigger brother (or sister...) of linear models: `polynomial regression`. Sometimes when we plot two variables against each other their relationship will not always look like a straight line but somehow curved and non-linear. We may have tried a histogram and know that the data is somewhat normally distributed but <mark>HOW</mark> do we model the non-linear relationship? This is where we can use `polynomial regression` :smile:
 In this tutorial we will explore how we can build polynomial regression models, how to choose the 'right one' and how to report our modelling results :nerd_face:
 
-To get all the resources for this tutorial clone or download the zip file of this <a href="https://github.com/EdDataScienceEES/tutorial-Alexknob" target="_blank">GitHub repository</a> and unzip it.
+To get all the resources for this tutorial clone or download the zip file of this <a href="https://github.com/Alexknob/polyreg" target="_blank">GitHub repository</a> and unzip it.
 
 
 <a name='Setting-yourself-up'></a>
