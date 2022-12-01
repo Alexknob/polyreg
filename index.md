@@ -674,8 +674,6 @@ model5b <- lm(evoc_happiness ~ poly(numb_listened, 5, raw = TRUE), data = evocs)
 
 -------------
 
-<div style="background-color:rgba(177, 115, 241, 0.5)">
-
 ## For the very keen people...
 
 #### **Version 3: Use a ``for`` loop and `poly()` to add terms**
@@ -715,7 +713,6 @@ summary(models[[2]])
 ````
 This code has stored all our models in a `list` called models and has saved us loads of variable space and time. Again, this is just if you want to dig deeper on the topic.
 
-</div>
 
 ---------------
 
@@ -1038,8 +1035,6 @@ Also remember our initial **hypothesis**:
 
 ----------------
 
-<div style="background-color:rgba(255, 210, 0, 0.5)">
-
 ## Results on Evoc Happiness
 
 We found that the number of times Evocs have been listening to a song increased Evoc Happiness (**Polynomial Model, degree = 3, F = 1606, DF = 3, 197, p = 2.2e-16**).
@@ -1047,8 +1042,6 @@ We found that the number of times Evocs have been listening to a song increased 
 The relation of Evoc happiness `y` to the number of times ``x`` listened to a song could have been approximated in the following way:
 
 $y = 6.99 + 152.69x - 15.08x^2 + 0.50x^3$
-
-</div>
 
 -------------
 
