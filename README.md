@@ -5,7 +5,7 @@
 
 *developed by Alexandra Knoblauch*
 
-#### Full resources to the tutorial development can be accessed [here](https://github.com/EdDataScienceEES/tutorial-Alexknob)
+## Full resources to the tutorial development can be accessed [here](https://github.com/EdDataScienceEES/tutorial-Alexknob)
 
 This repository contains:
 
