@@ -673,7 +673,6 @@ model5b <- lm(evoc_happiness ~ poly(numb_listened, 5, raw = TRUE), data = evocs)
 
 
 -------------
-</div>
 
 <div style="background-color:rgba(177, 115, 241, 0.5)">
 
@@ -1038,19 +1037,19 @@ Also remember our initial **hypothesis**:
 :exclamation: Evoc happiness increased with the number of times they have listened to a song.
 
 ----------------
->
-><div style="background-color:rgba(255, 210, 0, 0.5)">
->
-> ## Results on Evoc Happiness
->
->We found that the number of times Evocs have been listening to a song increased Evoc Happiness (**Polynomial Model, degree = 3, F = 1606, DF = 3, 197, p = 2.2e-16**).
->
->The relation of Evoc happiness `y` to the number of times ``x`` listened to a song could have been approximated in the following way:
->
->$y = 6.99 + 152.69x - 15.08x^2 + 0.50x^3$
->
-></div>
->
+
+<div style="background-color:rgba(255, 210, 0, 0.5)">
+
+## Results on Evoc Happiness
+
+We found that the number of times Evocs have been listening to a song increased Evoc Happiness (**Polynomial Model, degree = 3, F = 1606, DF = 3, 197, p = 2.2e-16**).
+
+The relation of Evoc happiness `y` to the number of times ``x`` listened to a song could have been approximated in the following way:
+
+$y = 6.99 + 152.69x - 15.08x^2 + 0.50x^3$
+
+</div>
+
 -------------
 
 And this is the :sparkles:end:sparkles: of all the hard work on `polynomial regression modelling`!
@@ -1112,8 +1111,6 @@ You should now know...
 
 ## 13. Further Resources
 
-<div style="background-color:rgba(0, 0, 0, 0.1)">
-
 Here you can find further interesting resources:
 
 | Topic | Content | Link |
@@ -1132,4 +1129,4 @@ Here you can find further interesting resources:
 |Polynomial regression in Rstudio|Video buidling on polynomial regression and how to programme it in RStudio (9 min)|https://www.youtube.com/watch?v=gNkTydo6b-A|
 |Coding Club Tutorials| List of different Coding Club Tutorials|https://ourcodingclub.github.io/tutorials.html|
 
-</div>
+
